@@ -1,2 +1,6 @@
 # DiwaliSalesPythonPandas
-Diwali Sales Data Analysis using Python. This project utilizes Pandas for data manipulation, NumPy for numerical operations, and Matplotlib/Seaborn for visualization to explore and understand sales data effectively.
+Diwali Sales Data Cleaning and Visualization using Pandas and Seaborn. This notebook processes raw sales data, performs data cleaning, and creates visualizations.
+🔥📊 Diwali Sales Data Analysis using Python
+🛍️📉 Diwali Sales Analysis with Pandas & Seaborn
+🎆💰 Diwali Sales Insights with Python
+🛒💡 Analyzing Diwali Sales Data with Python
